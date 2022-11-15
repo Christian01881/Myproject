@@ -1,0 +1,67 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+  margin-top: 30px;
+}
+
+.corpo{
+  width: 65%;
+  padding-bottom: 5%;
+  margin: auto;
+  border-radius: 20px;
+  background-color:rgba(0,0,0,0.6)
+
+}
+
+.centro{
+  text-align: center;
+}
+
+.grandezzalogo{
+  width: 25%;
+}
+
+#titolo{
+  color: rgb(0,221,0);
+}
+
+.rettangolo{
+  text-align: center;
+  background-color: rgb(0,221,0);
+  width: 80%;
+  height: 35px;
+  margin: auto;
+}
+
+.bottoni{
+  margin-top: 1%;
+}
+
+.padding{
+  padding-left: 10%;
+  padding-top: 1%;
+  width: 800px;
+  line-height: 5%;
+  color: white;
+}
+
+.medio{
+  background-color: yellow;
+  width: 30%;
+  height: 20px;
+  border-radius: 5px;
+}
+
+.alto{
+  background-color: green;
+  width: 60%;
+  height: 20px;
+  border-radius: 5px;
+}
+
+.basso{
+  background-color: red;
+  width: 15%;
+  height: 20px;
+  border-radius: 5px;
+}
